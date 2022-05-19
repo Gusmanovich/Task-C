@@ -1,0 +1,15 @@
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\Task18.exe
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\Task18.deps.json
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\Task18.runtimeconfig.json
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\Task18.dll
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\ref\Task18.dll
+C:\GB\C#\Tasks\Task18\bin\Debug\net6.0\Task18.pdb
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.csproj.AssemblyReference.cache
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.AssemblyInfoInputs.cache
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.AssemblyInfo.cs
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.csproj.CoreCompileInputs.cache
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.dll
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\ref\Task18.dll
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.pdb
+C:\GB\C#\Tasks\Task18\obj\Debug\net6.0\Task18.genruntimeconfig.cache

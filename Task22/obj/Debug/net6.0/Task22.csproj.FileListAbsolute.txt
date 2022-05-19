@@ -1,0 +1,15 @@
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.csproj.AssemblyReference.cache
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.AssemblyInfoInputs.cache
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.AssemblyInfo.cs
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.csproj.CoreCompileInputs.cache
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\Task22.exe
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\Task22.deps.json
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\Task22.runtimeconfig.json
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\Task22.dll
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\ref\Task22.dll
+C:\GB\C#\Tasks\Task22\bin\Debug\net6.0\Task22.pdb
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.dll
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\ref\Task22.dll
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.pdb
+C:\GB\C#\Tasks\Task22\obj\Debug\net6.0\Task22.genruntimeconfig.cache
