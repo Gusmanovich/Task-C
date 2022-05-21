@@ -21,7 +21,7 @@ string[] inputValidationAnalysis() //анализ правильности вв�
 
         words = str.Split(charSeparators, StringSplitOptions.RemoveEmptyEntries);
 
-        if (words.Length > size)2б
+        if (words.Length > size)
         {
             Console.WriteLine($"Ввели более {size} чисел. Повторите ввод, пожалуйста:  "); 
             flag = false;
