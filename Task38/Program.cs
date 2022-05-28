@@ -34,7 +34,10 @@ int[] SelectionSort(int[] array)
         
         for (int j = i + 1; j < array.Length; j++)
         {
-            if(array[j] < array[minPosition]) minPosition = j;
+            if(array[j] < array[minPosition])
+            {
+                minPosition = j;
+            }
         }
         int temporary = array[i];
         array[i] = array[minPosition];
@@ -49,7 +52,7 @@ int[] randomArray = getRandomArray(number, 10);
 
 printArray(randomArray); // неотсортированный массив
 
-int[] arr = SelectionSort(randomArray);
+int[] arr = SelectionSort(randomArray); // Получается можно не создавать новый массив?
 
 printArray(randomArray); // отсортированный массив  ПОЧЕМУ????? только arr должен быть по идее отсортирован?
 
