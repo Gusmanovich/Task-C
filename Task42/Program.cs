@@ -3,14 +3,6 @@
 // 3 -> 11
 // 2 -> 10
 
-// int x = 3;
-// string s = "";
-// while (x > 0)
-// {
-//     s = ((x % 2 == 0) ? "0" : "1") + s;
-//     x /= 2;
-// }
-// Console.Write(s);
 
 int[] TransToBin(int num)
 {
@@ -22,14 +14,6 @@ int[] TransToBin(int num)
     }
     return array;
 }
-
-// void PrintUsual(int [] arrayToPrint)
-// {
-//     for (int i = 0; i < arrayToPrint.Length; i++)
-//     {
-//         Console.Write(arrayToPrint[i]);
-//     }
-// }
 
 void PrintArray(int[] arrayToPrint)
 {
@@ -50,6 +34,5 @@ void PrintArray(int[] arrayToPrint)
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int[] arrayBin = TransToBin(number);
-// PrintUsual(arrayBin);
-// Console.WriteLine();
+
 PrintArray(arrayBin);

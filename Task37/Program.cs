@@ -43,7 +43,7 @@ int[] multElementsOfArray(int[] arrayToCalculate)
     }
     int[] arr = new int[length];
 
-    for (var i = 0; i < length; i++)  
+    for (int i = 0; i < length; i++)  
     {
         if (medium)
         {
