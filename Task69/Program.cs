@@ -9,10 +9,10 @@ double Pow(int value, int pow)
         return 1;
     if (pow > 0)
         return Pow(value, pow - 1) * value;
-    return 1.0 / Pow(value, -pow);
+    return 1.0 / Pow(value, -pow); // отрицательная степень
 }
 
-Console.WriteLine(Pow(3,5));
+Console.WriteLine(Pow(3,-5));
 
 
 

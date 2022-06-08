@@ -42,8 +42,6 @@ void print2DArray(int[,] arrayToPrint)
 
 void ElementSearch(int[,] matr, int findNum)
 {
-    int index = 0;
-
     if (findNum >= matr.GetLength(0) * matr.GetLength(1))
     {
         Console.WriteLine("такого числа в массиве нет");
@@ -51,17 +49,8 @@ void ElementSearch(int[,] matr, int findNum)
     else
     {
         int row = findNum / matr.GetLength(1);
-        int col = 0;
-
-        for (var i = 0; i < matr.GetLength(0); i++)
-        {
-            for (var j = 0; j < matr.GetLength(1) && findNum >= index; j++)
-            {
-                index++;
-                col = j;
-            }
-        }
-        Console.Write($"Искомое число находится на позиции {row}, {col}  двумерного массива с элементом  :"); 
+        int col = findNum - row * matr.GetLength(1);
+        Console.Write($"Искомое число находится на позиции {row}, {col}  двумерного массива с элементом  :");
         Console.WriteLine($" {matr[row, col]}");
     }
 }
@@ -74,5 +63,3 @@ int[,] randomArray = FillArray(3, 4, 9);
 print2DArray(randomArray);
 
 ElementSearch(randomArray, elemNum);
-
-//print2DArray(randomArray);
